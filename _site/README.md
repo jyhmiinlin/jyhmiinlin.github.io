@@ -1,2 +1,0 @@
-jyhmiinlin.github.io
-====================

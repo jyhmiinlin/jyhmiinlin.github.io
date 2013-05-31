@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title></title>
- <link href="/" rel="self"/>
- <link href=""/>
- <updated>2013-05-31T07:22:11+01:00</updated>
- <id></id>
+ <title>Home</title>
+ <link href="http://jyhmiinlin.github.io/" rel="self"/>
+ <link href="http://jyhmiinlin.github.io"/>
+ <updated>2013-05-31T11:41:05+01:00</updated>
+ <id>http://jyhmiinlin.github.io</id>
  <author>
-   <name></name>
-   <email></email>
+   <name>Jyh-Miin Lin</name>
+   <email>jyhmiinlin@gmail.com</email>
  </author>
 
  
