@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jyh-Miin Lin
+title: Jyh-Miin Lin 
 tagline: <i>Modern Doctor in Search of Science</i>
 ---
 
@@ -16,10 +16,10 @@ tagline: <i>Modern Doctor in Search of Science</i>
 
 ##Publications
 
-&raquo; Quantification of non-water-suppressed MR spectra with correction for motion-induced signal reduction. Lin JM, Chuang TC, Chung HW, Tsai SY.
+&raquo; Quantification of Non-Water-Suppressed MR Spectra with Correction for Motion-Induced Signal Reduction. Lin JM, Chuang TC, Chung HW, Tsai SY.
 Magn Reson Med. 2009 Dec;62(6):1394-403<a href="http://www.ncbi.nlm.nih.gov/pubmed/19780180"> doi: 10.1002/mrm.22119 </a>
 
-&raquo; Quantification of non-water-suppressed MR spectra with correction for motion-induced signal reduction. Lin JM, Chuang TC, Chung HW, Tsai SY. NMR Biomed. Article first published online: 12 December 2012; Volume 26, Issue 4, pages 400–409, April 2013 
+&raquo; Quantitative Comparison of Post-Processing Methods for Reduction of Frequency Modulation Sidebands in Non-water Suppression (1) H MRS. Lin JM, Chuang TC, Chung HW, Tsai SY. NMR Biomed. Article first published online: 12 December 2012; Volume 26, Issue 4, pages 400–409, April 2013 
 <a href="http://www.ncbi.nlm.nih.gov/pubmed/23233288">doi: 10.1002/nbm.2877 </a>
 
 
@@ -32,6 +32,8 @@ Magn Reson Med. 2009 Dec;62(6):1394-403<a href="http://www.ncbi.nlm.nih.gov/pubm
 
 
 ##Contact
+
+Jyh-Miin(Jimmy) Lin, 林智敏
 
 Address:Level 5 Box 218, Addenbrooke's Hospital, Hills Road, Cambridge, CB2 0QQ, UK
 
