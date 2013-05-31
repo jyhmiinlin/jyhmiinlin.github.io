@@ -31,10 +31,3 @@ Magn Reson Med. 2009 Dec;62(6):1394-403<a href="http://www.ncbi.nlm.nih.gov/pubm
 </ul>
 
 
-##Contact
-
-Jyh-Miin(Jimmy) Lin, 林智敏
-
-Address:Level 5 Box 218, Addenbrooke's Hospital, Hills Road, Cambridge, CB2 0QQ, UK
-
-<a href="mailto:jyhmiinlin@gmail.com">Gmail</a>

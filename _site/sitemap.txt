@@ -1,9 +1,10 @@
 
+http://jyhmiinlin.github.io/contact.html
 http://jyhmiinlin.github.io/index.html
-http://jyhmiinlin.github.io/pages.html
 http://jyhmiinlin.github.io/tags.html
 http://jyhmiinlin.github.io/categories.html
 http://jyhmiinlin.github.io/atom.xml
 http://jyhmiinlin.github.io/archive.html
+http://jyhmiinlin.github.io/activity.html
 http://jyhmiinlin.github.io/sitemap.txt
 http://jyhmiinlin.github.io/rss.xml
