@@ -4,13 +4,21 @@
  <title>Home</title>
  <link href="http://jyhmiinlin.github.io/" rel="self"/>
  <link href="http://jyhmiinlin.github.io"/>
- <updated>2013-05-31T12:00:23+01:00</updated>
+ <updated>2013-06-01T11:34:31+01:00</updated>
  <id>http://jyhmiinlin.github.io</id>
  <author>
    <name>Jyh-Miin Lin</name>
    <email>jyhmiinlin@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>testing blog</title>
+   <link href="http://jyhmiinlin.github.io/2013/06/01/testing-blog"/>
+   <updated>2013-06-01T00:00:00+01:00</updated>
+   <id>http://jyhmiinlin.github.io/2013/06/01/testing-blog</id>
+   <content type="html"></content>
+ </entry>
  
  
 </feed>
