@@ -5,7 +5,6 @@ header: Contact
 group: navigation
 ---
 
-![head](/images/head.jpg)
 
 Jyh-Miin Lin(Jimmy)
 

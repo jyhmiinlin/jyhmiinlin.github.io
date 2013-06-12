@@ -4,22 +4,26 @@ title: Jyh-Miin Lin
 tagline: <i>Modern Doctor in Search of Science</i>
 ---
 
+![head](/images/head.jpg)
+
+Jyh-Miin Lin
+
 ##Qualification
 
-&raquo; PhD Student at <a href="http://www.medschl.cam.ac.uk/radiology/" >University of Cambridge, Department of Radiology</a>
+1.PhD Student at <a href="http://www.medschl.cam.ac.uk/radiology/" >University of Cambridge, Department of Radiology</a>
 
-&raquo; MS, Department of Electrical Engineering(Now it is renamed as <a href="http://www.bebi.ntu.edu.tw/English/index.html" >Graduate Institute of Biomedical Electronics and Bioinformatics</a>)
+2.MS, Department of Electrical Engineering(Now it is renamed as <a href="http://www.bebi.ntu.edu.tw/English/index.html" >Graduate Institute of Biomedical Electronics and Bioinformatics</a>)
 
-&raquo; MD, <a href="http://www.mc.ntu.edu.tw/E0/Pages/page.aspx"> Department of Medicine, National Taiwan University </a>
+3.MD, <a href="http://www.mc.ntu.edu.tw/E0/Pages/page.aspx"> Department of Medicine, National Taiwan University </a>
 
 
 
 ##Publications
 
-&raquo; Quantification of Non-Water-Suppressed MR Spectra with Correction for Motion-Induced Signal Reduction. Lin JM, Chuang TC, Chung HW, Tsai SY.
+1. Quantification of Non-Water-Suppressed MR Spectra with Correction for Motion-Induced Signal Reduction. Lin JM, Chuang TC, Chung HW, Tsai SY.
 Magn Reson Med. 2009 Dec;62(6):1394-403<a href="http://www.ncbi.nlm.nih.gov/pubmed/19780180"> doi: 10.1002/mrm.22119 </a>
 
-&raquo; Quantitative Comparison of Post-Processing Methods for Reduction of Frequency Modulation Sidebands in Non-water Suppression (1) H MRS. Lin JM, Chuang TC, Chung HW, Tsai SY. NMR Biomed. Article first published online: 12 December 2012; Volume 26, Issue 4, pages 400–409, April 2013 
+2. Quantitative Comparison of Post-Processing Methods for Reduction of Frequency Modulation Sidebands in Non-water Suppression (1) H MRS. Lin JM, Chuang TC, Chung HW, Tsai SY. NMR Biomed. Article first published online: 12 December 2012; Volume 26, Issue 4, pages 400–409, April 2013 
 <a href="http://www.ncbi.nlm.nih.gov/pubmed/23233288">doi: 10.1002/nbm.2877 </a>
 
 
