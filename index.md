@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jyh-Miin Lin 
-tagline: <i>Modern Doctor in Search of Science</i>
+tagline: <i>Modern Doctor in Quest of Science</i>
 ---
 
 ![head](/images/head.jpg)
