@@ -1,21 +1,16 @@
 ---
 layout: page
 title: Jyh-Miin Lin 
-tagline: <i>Modern Doctor in Quest of Science</i>
+tagline: <i>Fast Iterative Reconstruction for PROPELLER</i>
 ---
 
-![head](/images/head.jpg)
+Jyh-Miin developed a novel iterative reconstruction for PROPELLER. The method employs k-space (the spatial frequency, see <a href="http://en.wikipedia.org/wiki/K-space_(MRI)">k-space</a>) density and accelerates the gridding process with 10x faster speed.
 
 Jyh-Miin Lin
 
 ##Qualification
 
 1.PhD Student at <a href="http://www.medschl.cam.ac.uk/radiology/" >University of Cambridge, Department of Radiology</a>
-
-2.MS, Department of Electrical Engineering(Now it is renamed as <a href="http://www.bebi.ntu.edu.tw/English/index.html" >Graduate Institute of Biomedical Electronics and Bioinformatics</a>)
-
-3.MD, <a href="http://www.mc.ntu.edu.tw/E0/Pages/page.aspx"> Department of Medicine, National Taiwan University </a>
-
 
 
 ##Publications
