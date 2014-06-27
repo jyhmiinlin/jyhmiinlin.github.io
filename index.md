@@ -44,8 +44,6 @@ Magn Reson Med. 2009 Dec;62(6):1394-403<a href="http://www.ncbi.nlm.nih.gov/pubm
 
 2.How to Use Less Data with Compressed Sensing Technology?, Taiwan Scientific Symposium, 2013, Oxford
 
-1.<a href="https://github.com/jyhmiinlin/pynufft">pynufft</a> is a python version of NUFFT. The GPU version has only been tested for iterative PROPELLER reconstruction. The software requires numpy, scipy, and pyopencl,CUDA if GPU acceleration is needed.
-
 <ul class="posts">
   {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
