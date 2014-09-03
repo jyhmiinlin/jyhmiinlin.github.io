@@ -4,15 +4,13 @@ title: Jyh-Miin Lin
 tagline: <i>Fast Iterative Reconstruction for PROPELLER</i> 
 ---
 
-Many novel analyses for MR signals ignore the very basics. One among the many fundamental ideas of MRI is the k-space. 
-
-Jyh-Miin employs k-space (the spatial frequency, see <a href="http://en.wikipedia.org/wiki/K-space_(MRI)">k-space</a>) density to speed up the iterative PROPELLER by 5x acceleration on CPU and 10x on GPU. This method reduces the time spent on gridding which is known as the bottleneck for iterative NUFFT. The reconstruction system can reconstruction high-resolution PROPELLER in one (for normal 2D 256x256 images) or several minutes (depending on the problem size).
+Jyh-Miin employes many matrix methods to reconstruct MR signals and non-Cartesian MRI. The ultimate goal of my study is to improve the accuracy and reduce the influences of noises. 
 
 Jyh-Miin is currently a PhD candidate at <a href="http://www.medschl.cam.ac.uk/radiology/" >University of Cambridge, Department of Radiology</a>
 
 # Software
 
-1.<a href="https://github.com/jyhmiinlin/pynufft">pynufft</a> is a python version of NUFFT. The GPU version has only been tested for iterative PROPELLER reconstruction. The software requires numpy, scipy, and pyopencl,CUDA if GPU acceleration is needed.
+1.<a href="https://github.com/jyhmiinlin/pynufft">pynufft</a> is a python version of NUFFT. The GPU version has only been tested for iterative PROPELLER reconstruction. The software requires numpy, scipy, reikna <a href="https://pypi.python.org/pypi/reikna"> to use GPU acceleration. 
 
 # Journal Articles
 
@@ -38,7 +36,7 @@ Magn Reson Med. 2009 Dec;62(6):1394-403<a href="http://www.ncbi.nlm.nih.gov/pubm
 
 7.J-M Lin, S-Y Tsai, C-M Cheng, T-C Yeh, H-S Liu, RV Mulkern, H-W Chung, N-K Chen. (2007). High-Quality Non-Water Suppressed MR Spectra with Correction for Motion Induced Signal Reduction, 15 th ISMRM annual meeting, (May 2007), Berlin, Germany.
 
-# Lecture
+# Talk
 
 1.An Introduction to PROPELLER, Nov, 2013, Cambridge
 
