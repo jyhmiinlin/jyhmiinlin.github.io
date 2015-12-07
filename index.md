@@ -15,7 +15,7 @@ Jyh-Miin is currently a PhD candidate at <a href="http://www.medschl.cam.ac.uk/r
 
 # Journal Articles
 
-1.J-M Lin, A.J. Patterson, H-C Chang, J.H. Gillard, M.J. Graves, An Iterative Reduced Field-of-View Reconstruction for PROPELLER MRI, Medical Physics, 42(10), 2015 (In Press)
+1.J-M Lin, A.J. Patterson, H-C Chang, J.H. Gillard, M.J. Graves, An Iterative Reduced Field-of-View Reconstruction for PROPELLER MRI, Med Phys. 2015 Oct;42(10):5757<a href="http://www.ncbi.nlm.nih.gov/pubmed/26429249"> doi: 10.1118/1.4929560 </a>
 
 2.J-M Lin, T-C Chuang, H-W Chung, S-Y Tsai, Quantitative Comparison of Post-Processing Methods for Reduction of Frequency Modulation Sidebands in Non-water Suppression (1) H MRS. Lin JM, Chuang TC, Chung HW, Tsai SY. NMR Biomed. Article first published online: 12 December 2012; Volume 26, Issue 4, pages 400–409, April 2013 
 <a href="http://www.ncbi.nlm.nih.gov/pubmed/23233288">doi: 10.1002/nbm.2877 </a>
