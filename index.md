@@ -9,7 +9,9 @@ Jyh-Miin is currently a PhD candidate at <a href="http://www.medschl.cam.ac.uk/r
 
 1.<a href="https://github.com/jyhmiinlin/pynufft">pynufft</a> is a python version of NUFFT, using the split-Bregman method and coil combination. The GPU version has only been tested for iterative PROPELLER reconstruction. The software requires numpy, scipy, reikna <a href="https://pypi.python.org/pypi/reikna"> to use GPU acceleration. 
 
-2.<a href="https://github.com/jyhmiinlin/rfov">rfov</a> an accelerated version of pynufft, using rFOV
+2.<a href="https://github.com/jyhmiinlin/rfov">rfov</a>: An accelerated version of pynufft, using rFOV
+
+3.<a href="https://github.com/jyhmiinlin/cineFSE">cineFSE</a>: Iterative reconstruction for cine fast-spin echo (cine FSE)
 
 # Journal Articles
 
