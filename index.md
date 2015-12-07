@@ -3,7 +3,7 @@ layout: page
 title: Jyh-Miin Lin 
 ---
 
-Jyh-Miin is currently a PhD candidate at <a href="http://www.medschl.cam.ac.uk/radiology/" >University of Cambridge, Department of Radiology</a>
+Jyh-Miin is currently a PhD candidate at <a href="http://www.images.group.cam.ac.uk/directory/jyh-miin-lin" >University of Cambridge, Department of Radiology</a>
 
 # Software
 
