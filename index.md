@@ -15,12 +15,13 @@ Jyh-Miin is currently a PhD candidate at <a href="http://www.images.group.cam.ac
 
 # Journal Articles
 
-1.J-M Lin, A.J. Patterson, H-C Chang, J.H. Gillard, M.J. Graves, An Iterative Reduced Field-of-View Reconstruction for PROPELLER MRI, Med Phys. 2015 Oct;42(10):5757<a href="http://www.ncbi.nlm.nih.gov/pubmed/26429249"> doi: 10.1118/1.4929560 </a>
 
-2.J-M Lin, T-C Chuang, H-W Chung, S-Y Tsai, Quantitative Comparison of Post-Processing Methods for Reduction of Frequency Modulation Sidebands in Non-water Suppression (1) H MRS. Lin JM, Chuang TC, Chung HW, Tsai SY. NMR Biomed. Article first published online: 12 December 2012; Volume 26, Issue 4, pages 400–409, April 2013 
-<a href="http://www.ncbi.nlm.nih.gov/pubmed/23233288">doi: 10.1002/nbm.2877 </a>
 
-3.J-M Lin, S-Y Tsai, H-S Liu, H-W Chung, RV Mulkern, C-M Cheng, T-C Yeh and N-K Chen, Quantification of Non-Water-Suppressed MR Spectra with Correction for Motion-Induced Signal Reduction. Lin JM, Chuang TC, Chung HW, Tsai SY.
+J-M Lin, A.J. Patterson, H-C Chang, J.H. Gillard, M.J. Graves, An Iterative Reduced Field-of-View Reconstruction for PROPELLER MRI, Med Phys. 2015 Oct;42(10):5757<a href="http://www.ncbi.nlm.nih.gov/pubmed/26429249"> doi: 10.1118/1.4929560 </a>
+
+J-M Lin, T-C Chuang, H-W Chung, S-Y Tsai, Quantitative Comparison of Post-Processing Methods for Reduction of Frequency Modulation Sidebands in Non-water Suppression (1) H MRS. Lin JM, Chuang TC, Chung HW, Tsai SY. NMR Biomed.2013 Apr;26(4):400-9<a href="http://www.ncbi.nlm.nih.gov/pubmed/23233288">doi: 10.1002/nbm.2877 </a>
+
+J-M Lin, S-Y Tsai, H-S Liu, H-W Chung, RV Mulkern, C-M Cheng, T-C Yeh and N-K Chen, Quantification of Non-Water-Suppressed MR Spectra with Correction for Motion-Induced Signal Reduction. Lin JM, Chuang TC, Chung HW, Tsai SY.
 Magn Reson Med. 2009 Dec;62(6):1394-403<a href="http://www.ncbi.nlm.nih.gov/pubmed/19780180"> doi: 10.1002/mrm.22119 </a>
 
 
