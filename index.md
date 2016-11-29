@@ -8,7 +8,7 @@ Full List of Publications can be found in my <a href="https://orcid.org/0000-000
 
 ## Contact information:
 
-Email:<a href="mailto:jyhmiinlin@gmail.com">Gmail</a>
+Email:<a href="mailto:jyhmiinlin@gmail.com">jyhmiinlin@gmail.com</a>
 
 ## Projects
 
