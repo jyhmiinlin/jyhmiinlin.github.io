@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Jyh-Miin Lin, MD, MSc, PhD
+title: Dr Jyh-Miin Lin, MD, MSc, PhD
 ---
 
-Dr Jyh-Miin Lin, MD, MSc, PhD
-
-Physician-scientist
+## Physician-scientist
 
 Jyh-Miin's research interests include iterative reconstruction of the PROPELLER (Periodically Rotated Overlapping Parallel Lines with Enhanced Reconstruction) technique and spatio-temporal sparse reconstruction. Jyh-Miin's current project focuses on clinical applications of real-time reconstruction, using high-performance computing and graphic processing units (GPUs). 
 
