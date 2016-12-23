@@ -17,9 +17,7 @@ Email:<a href="mailto:jyhmiinlin@gmail.com">jyhmiinlin@gmail.com</a>
 
 ## Projects
 
-1.PyNufft: <a href="http://www.github.come/jyhmiinlin/pynufft/">Python non-uniform Fast Fourier Transform(NUFFT)</a>
+1.PyNufft: <a href="https://github.com/jyhmiinlin/pynufft">Python non-uniform Fast Fourier Transform(NUFFT)</a>
 
-2.<a href="http://www.github.come/jyhmiinlin/cineFSE/"> Cine Fast Spin Echo imaging </a> reconstructed by peripheral pulses.
-
-3.(Completed)<a href="https://code.google.com/p/nws-mrs/" > Non-water suppressed MRS with sideband inhibition and motion correction</a>
+2.<a href="https://github.com/jyhmiinlin/cineFSE"> Cine Fast Spin Echo imaging </a> reconstructed by peripheral pulses.
 
