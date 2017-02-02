@@ -17,7 +17,7 @@ Email:<a href="mailto:jyhmiinlin@gmail.com">jyhmiinlin@gmail.com</a>
 
 ## Projects
 
-1.Pynufft: <a href="https://jyhmiinlin.github.io/pynufft/">Python non-uniform Fast Fourier Transform(NUFFT)</a> now support NUFFT on CPU and NVIDIA's GPU.
+1.Pynufft: <a href="https://jyhmiinlin.github.io/pynufft/">Python non-uniform Fast Fourier Transform(NUFFT)</a> now supports NUFFT on CPU and NVIDIA's GPU.
 
 2.<a href="https://github.com/jyhmiinlin/cineFSE"> Cine Fast Spin Echo imaging </a> reconstructed by peripheral pulses.
 
