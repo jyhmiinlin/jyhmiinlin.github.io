@@ -22,5 +22,5 @@ Email:<a href="mailto:jyhmiinlin@gmail.com">jyhmiinlin@gmail.com</a>
 
 1.PyNUFFT: <a href="https://jyhmiinlin.github.io/pynufft/">Python non-uniform Fast Fourier Transform(NUFFT)</a> now supports NUFFT on CPU, PyOpenCL and PyCUDA.
 
-2.<a href="https://github.com/jyhmiinlin/cineFSE"> Cine Fast Spin Echo imaging </a> reconstructed by peripheral pulses.
+<>2.<a href="https://github.com/jyhmiinlin/cineFSE"> Cine Fast Spin Echo imaging </a> reconstructed by peripheral pulses.
 
