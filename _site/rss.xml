@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>Home</title>
+        <description>Home - Jyh-Miin Lin</description>
+        <link>http://jyhmiinlin.github.io</link>
+        <link>http://jyhmiinlin.github.io</link>
+        <lastBuildDate>2013-06-16T09:45:15+01:00</lastBuildDate>
+        <pubDate>2013-06-16T09:45:15+01:00</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>testing blog</title>
+                <description></description>
+                <link>http://jyhmiinlin.github.io/2013/06/01/testing-blog</link>
+                <guid>http://jyhmiinlin.github.io/2013/06/01/testing-blog</guid>
+                <pubDate>2013-06-01T00:00:00+01:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>
