@@ -5,10 +5,10 @@ title: Dr Jyh-Miin Lin, MD, PhD
 
 ## Medical imaging scientist
 
-My research interests are image reconstruction methods for computed tomography (CT), magnetic resonance imaging (MRI) reconstruction, using compressed sensing, 
-iterative reconstruction of non-uniform sampling technique, and spatio-temporal reconstructions. 
-
 I had the PhD from the University of Cambridge. 
+
+My research interests are image reconstruction methods for computed tomography (CT), magnetic resonance imaging (MRI) reconstruction, using compressed sensing, 
+iterative reconstruction of non-uniform sampling technique, and spatio-temporal reconstructions.
 
 Full publications can be found on my <a href="https://orcid.org/0000-0002-2028-2899">ORCID</a> page.
 
