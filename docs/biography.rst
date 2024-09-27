@@ -33,7 +33,7 @@
 
 
 
-.. image:: ../media/BMEiCon.jpg
+.. image:: media/BMEiCon.jpg
    :alt: 野火logo
    :align: center
    :caption: 野火logo
