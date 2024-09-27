@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "衛教開放原始碼網頁"
-copyright = "2024, cedar-pine team"
-author = "cedar-pine team"
+project = "林智敏醫師衛教網頁"
+copyright = "2024, JML team"
+author = "JML team"
 
 
 # -- General configuration ---------------------------------------------------
