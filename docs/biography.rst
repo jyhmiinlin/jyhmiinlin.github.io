@@ -36,6 +36,10 @@
 .. image:: ../media/BMEiCon.jpeg
    :align: center
    :alt: BMEiCon
+   
+.. image:: ../media/talk.jpeg
+   :align: center
+   :alt: BMEiCon
 
 <Powered by ChatGPT>
 
