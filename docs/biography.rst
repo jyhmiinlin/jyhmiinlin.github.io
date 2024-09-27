@@ -32,5 +32,8 @@
 您可以在Google Scholar、IEEE Xplore或PubMed等平台上搜尋他的名字，以找到他的相關發表作品。
 
 
+![林醫師在國際會議發表論文](BMEiCon.jpg "Tokyo")
+
+
 <Powered by ChatGPT>
 
