@@ -8,7 +8,6 @@ Contents
 .. toctree::
 
    Home <self>
-   biography
    HTN
    dislipidemia
    weight_management
@@ -17,3 +16,4 @@ Contents
    NSAID
    DASH
    law
+   biography
