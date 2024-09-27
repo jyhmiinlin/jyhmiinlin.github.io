@@ -34,8 +34,9 @@
 
 
 .. image:: ../media/BMEiCon.jpg
+   :alt: 野火logo
    :align: center
-   :alt: BMEiCon
+   :caption: 野火logo
 
 <Powered by ChatGPT>
 
