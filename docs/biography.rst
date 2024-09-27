@@ -39,7 +39,7 @@
    
 .. image:: ../media/talk.jpeg
    :align: center
-   :alt: BMEiCon
+   :alt: talk
 
 <Powered by ChatGPT>
 
