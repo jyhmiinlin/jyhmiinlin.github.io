@@ -1,4 +1,4 @@
-歡迎來到林智敏醫師衛教網頁
+歡迎來到林醫師衛教網頁
 ===================================
 
 
@@ -8,7 +8,6 @@ Contents
 .. toctree::
 
    Home <self>
-   biography
    HTN
    dislipidemia
    weight_management
@@ -17,3 +16,4 @@ Contents
    NSAID
    DASH
    law
+  
