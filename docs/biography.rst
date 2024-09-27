@@ -3,6 +3,9 @@
 
 .. _biography:
 
+.. image:: ../media/head.jpeg
+   :align: center
+   :alt: head
 
 林醫師為專精於臨床醫學與醫學人工智慧的傑出研究學者，並在臨床服務與醫學審稿領域有持續貢獻。他擁有豐富的學術和專業背景，致力於推動醫學物理與醫學科技技術在醫療領域的進步。
 
@@ -10,7 +13,13 @@
 
 除了研究工作，林醫師在臨床社區服務與醫學護理，人工智慧相關期刊審稿上也有貢獻，如BMC Nursing, Medicine, IEEE TMI, IEEE TIP, IEEE TCI等期刊協助審稿，推動醫學研究品質提升。
 
-此外，林醫師是IEEE高級會員，也曾是歐洲磁共振醫學與生物學學會（ESMRMB）的成員。他在該領域的工作和奉獻使他在全球範圍內獲得了廣泛的尊重和認可。林醫師的研究主要集中在以下幾個領域：
+此外，林醫師是IEEE高級會員，也曾是歐洲磁共振醫學與生物學學會（ESMRMB）的成員。他在該領域的工作和奉獻使他在全球範圍內獲得了廣泛的尊重和認可。
+
+.. image:: ../media/BMEiCon.jpeg
+   :align: center
+   :alt: BMEiCon
+
+林醫師的研究主要集中在以下幾個領域：
 
 * 醫學影像中的先進數值分析技術。
 * 醫學影像處理中的計算方法與演算法開發。
@@ -33,9 +42,7 @@
 
 
 
-.. image:: ../media/BMEiCon.jpeg
-   :align: center
-   :alt: BMEiCon
+
    
 .. image:: ../media/talk.jpeg
    :align: center
