@@ -38,7 +38,7 @@
 * 病人為中心的轉介。
 * 戒菸、早期腎臟病、疫苗、預立醫囑等諮商。
 
-您可以在Google Scholar、IEEE Xplore或PubMed等平台上搜尋他的名字，以找到他的相關發表作品。
+您可以在Google Scholar、IEEE Xplore或PubMed等找到他的相關發表研究。
 
 
 
