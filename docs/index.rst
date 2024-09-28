@@ -1,4 +1,4 @@
-歡迎來到林醫師衛教網頁
+Jyh-Miin Lin MD, PhD
 ===================================
 
 
@@ -8,6 +8,7 @@ Contents
 .. toctree::
 
    Home <self>
+   clinical_service
    biography
    
    <Powered by ChatGPT>

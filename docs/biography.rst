@@ -1,19 +1,8 @@
-林醫師博士
+學術活動
 =====
 
 .. _biography:
 
-.. image:: ../media/head.jpeg
-   :align: center
-   :alt: head
-
-林醫師為專精於臨床醫學與醫學人工智慧的傑出研究學者，並在臨床服務與醫學審稿領域有持續貢獻。他擁有豐富的學術和專業背景，致力於推動醫學物理與醫學科技技術在醫療領域的進步。
-
-林醫師取得國立臺灣大學醫學士學位，後取得碩士學位。為了進一步精進專業知識，他在著名的劍橋大學完成博士學位。
-
-除了研究工作，林醫師在臨床社區服務與醫學護理，人工智慧相關期刊審稿上也有貢獻，如BMC Nursing, Medicine, IEEE TMI, IEEE TIP, IEEE TCI等期刊協助審稿，推動醫學研究品質提升。
-
-此外，林醫師是IEEE高級會員，也曾是歐洲磁共振醫學與生物學學會（ESMRMB）的成員。他在該領域的工作和奉獻使他在全球範圍內獲得了廣泛的尊重和認可。
 
 .. image:: ../media/BMEiCon.jpeg
    :align: center
@@ -33,9 +22,6 @@
 您可以在Google Scholar、IEEE Xplore或PubMed等找到他的相關發表研究。
 
 
-
-
-   
 .. image:: ../media/talk.jpeg
    :align: center
    :alt: talk
