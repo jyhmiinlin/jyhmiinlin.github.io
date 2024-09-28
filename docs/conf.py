@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "林醫師衛教網頁"
+project = "Dr Jyh-Miin Lin MD. PhD."
 copyright = "2024, JML team"
 author = "JML team"
 
