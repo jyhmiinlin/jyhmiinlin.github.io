@@ -26,8 +26,9 @@
 * Addenbrooke's Hospital研究醫師
 * UCL GOSH 研究醫師
 * CEA Grenoble 副研究員
-* IEEE EMBS 會員
-* IEEE 資深會員
+* 前國際醫學磁振造影學會受訓會員
+* 前歐洲醫學與生物學會年會會員
+* 電機電子工程師學會醫學與生物工程學會資深會員
 
 
 
