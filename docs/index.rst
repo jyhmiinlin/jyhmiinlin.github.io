@@ -8,14 +8,6 @@ Contents
 .. toctree::
 
    Home <self>
-   HTN
-   dislipidemia
-   weight_management
-   fattyliver
-   gout
-   NSAID
-   DASH
-   law
    biography
    
    <Powered by ChatGPT>
