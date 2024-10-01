@@ -54,7 +54,7 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 # -- Options for HTML output -------------------------------------------------
 
 # extensions = [ "sphinx_rtd_theme", ]
-html_theme = "bizstyle"
+html_theme = "traditional"
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
