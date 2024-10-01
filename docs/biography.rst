@@ -22,7 +22,6 @@
 
 您可以在`Google Scholar <SO>`_找到他的相關發表研究。
 
-    
 .. _SO: https://scholar.google.com.au/citations?user=e1JvYMMAAAAJ&hl=en
 
 除了研究工作，林醫師在臨床社區服務與醫學護理，人工智慧相關期刊審稿上也有貢獻，如Journal of Clinical Medicine, BMC Nursing, Medicine, IEEE TMI, IEEE TIP, IEEE TCI等期刊協助審稿，推動醫學研究品質提升。
