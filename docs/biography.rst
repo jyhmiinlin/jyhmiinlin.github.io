@@ -19,10 +19,10 @@
 * 動態主動脈造影。
 * 人工智慧應用與風險。
 
+`CNN <http://cnn.com>`_
+您可以在`Google Scholar <https://scholar.google.com.au/citations?user=e1JvYMMAAAAJ&hl=en>`_.、`IEEE Xplore <xplore>`_或`PubMed <pubmed>`_等找到他的相關發表研究。
 
-您可以在`Google Scholar <SO>`_.、`IEEE Xplore <xplore>`_或`PubMed <pubmed>`_等找到他的相關發表研究。
 
-.. _gscholar: https://scholar.google.com.au/citations?user=e1JvYMMAAAAJ&hl=en
 .. _xplore: https://ieeexplore.ieee.org/author/37089230789
 .. _pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=jyh-miin+lin&size=200
 
