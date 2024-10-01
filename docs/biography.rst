@@ -20,7 +20,11 @@
 * 人工智慧應用與風險。
 
 
-您可以在`Google Scholar <https://scholar.google.com.au/citations?user=e1JvYMMAAAAJ&hl=en>`_.、IEEE Xplore或PubMed等找到他的相關發表研究。
+您可以在`Google Scholar <SO>`_.、`IEEE Xplore <xplore>`_或`PubMed <pubmed>`_等找到他的相關發表研究。
+
+.. _gscholar: https://scholar.google.com.au/citations?user=e1JvYMMAAAAJ&hl=en
+.. _xplore: https://ieeexplore.ieee.org/author/37089230789
+.. _pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=jyh-miin+lin&size=200
 
 
 除了研究工作，林醫師在臨床社區服務與醫學護理，人工智慧相關期刊審稿上也有貢獻，如Journal of Clinical Medicine, BMC Nursing, Medicine, IEEE TMI, IEEE TIP, IEEE TCI等期刊協助審稿，推動醫學研究品質提升。
