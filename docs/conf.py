@@ -31,7 +31,7 @@ extensions = [
     "sphinx.ext.autodoc",
     "sphinx.ext.autosummary",
     "sphinx.ext.intersphinx",
-     "sphinx_rtd_theme",
+   
 ]
 
 intersphinx_mapping = {
@@ -54,7 +54,7 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 # -- Options for HTML output -------------------------------------------------
 
 # extensions = [ "sphinx_rtd_theme", ]
-html_theme = "sphinx_rtd_theme"
+html_theme = "bizstyle"
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
