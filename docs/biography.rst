@@ -22,7 +22,7 @@
 
 您可以在Google Scholar、IEEE Xplore或PubMed等找到他的相關發表研究。
 
-Test hyperlink: 'Google Scholar <SO>'_.
+Test hyperlink: `Google Scholar <SO>`_.
     
 .. _SO: https://scholar.google.com.au/citations?user=e1JvYMMAAAAJ&hl=en
 
