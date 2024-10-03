@@ -30,13 +30,13 @@
    
 * ISMRM發表海報
 
-.. image:: ../media/ISMRM_singapore.jpeg
+.. image:: ../media/ismrm_singapore.jpeg
    :align: center
    :alt: ISMRM
    
 * ISMRM發表研究
 
-.. image:: ../media/ISMRM_toronto.jpeg
+.. image:: ../media/ismrm_toronto.jpeg
    :align: center
    :alt: ISMRM
    
