@@ -28,13 +28,13 @@
    :align: center
    :alt: talk
    
-* ISMRM發表海報
+* 新加波國際會議發表海報
 
 .. image:: ../media/ismrm_singapore.jpeg
    :align: center
    :alt: ISMRM
    
-* ISMRM發表研究
+* 多倫多國際會議發表研究
 
 .. image:: ../media/ismrm_toronto.jpeg
    :align: center
