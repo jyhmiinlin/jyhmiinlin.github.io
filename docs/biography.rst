@@ -27,6 +27,19 @@
 .. image:: ../media/talk.jpeg
    :align: center
    :alt: talk
+   
+* ISMRM發表海報
+
+.. image:: ../media/ISMRM_singapore.jpeg
+   :align: center
+   :alt: ISMRM
+   
+* ISMRM發表研究
+
+.. image:: ../media/ISMRM_toronto.jpeg
+   :align: center
+   :alt: ISMRM
+   
 
 <Powered by ChatGPT>
 
