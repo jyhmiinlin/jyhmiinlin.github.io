@@ -10,6 +10,7 @@ Contents
    Home <self>
    clinical_service
    biography
+   health_information
    
    <Powered by ChatGPT>
   

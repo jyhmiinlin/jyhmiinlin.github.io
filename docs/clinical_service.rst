@@ -43,16 +43,3 @@
 * 營養，生活型態與健康醫學衛教
 * 病人為中心的轉介
 * 戒菸、早期腎臟病、疫苗注射、預立醫囑諮商。
-
-.. toctree::
-
-   Home <self>
-   biography
-   HTN
-   dislipidemia
-   weight_management
-   fattyliver
-   gout
-   NSAID
-   DASH
-   law
