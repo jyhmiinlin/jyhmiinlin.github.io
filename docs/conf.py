@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Dr Jyh-Miin Lin MD. PhD."
+project = "林智敏醫學博士"
 copyright = "2024, JML team"
 author = "JML team"
 
