@@ -10,7 +10,7 @@
 
 * 台大醫學士
 * 台大電機所碩士
-* 劍橋大學影像醫學博士
+* PhD University of Cambridge
 
 經歷
 ----
